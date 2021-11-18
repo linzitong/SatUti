@@ -1,0 +1,1598 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD1 (VDC)</h2><b>Address:</b> 4101A Westfax Dr.<br />Chantilly, VA 20151<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Phone:</b> 703-251-9123 / 571-921-7881<br /><b>Notes:</b> Front Desk Number (Do Not Release this Number to anyone outside Amazon)<br />IAD1: Chantilly, VA: 703-251-9123 / 571-921-7881<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.453954,
+        38.8978449
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD2 (Equinix DC2)</h2><b>Address:</b> 21715 Filigree Court, Bldg F<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Notes:</b> Do not ship directly to this location without emailing iad-management@ first. Redirect<br />shipment to IAD6.<br />- Exceptions are made under certain circumstances for DWDM. Tracking numbers need to be<br />provided prior to the equipment showing up, or else Equinix WILL reject the shipment.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4590225,
+        39.01636269
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD4 (Equinix DC7)</h2><b>Address:</b> PAIX<br />7990 Science Applications Court<br />Vienna, VA 22183<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Notes:</b> Do not ship directly to this location without emailing iad-management@ first. Redirect<br />shipment to IAD6.<br />- Exceptions are made under certain circumstances for DWDM. Tracking numbers need to be<br />provided prior to the equipment showing up, or else Equinix WILL reject the shipment.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.220473,
+        38.9086134
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD5 (Verizon/MCI)</h2><b>Address:</b> MCI<br />21830 UUNET Way<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Notes:</b> * This site has been deprecated<br />Attention: Colocation u148464<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4713203,
+        39.0111289
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD6 (Loudoun Exchange)</h2><b>Address:</b> Amazon.com<br />43831 Devin Shafron Dr.<br />Building C<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Phone:</b> 703-251-9168 / 571-246-7287<br /><b>Notes:</b> Front Desk Number (Do Not Release this Number to anyone outside Amazon)<br />IAD6: Ashburn, VA: 703-251-9168 / 571-246-7287<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4854333,
+        39.0026533
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD7</h2><b>Address:</b> Amazon.com<br />7505 Mason King Ct.<br />Manassas, VA 20109<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.538207,
+        38.791201
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD8</h2><b>Address:</b> 13461 Sunrise Valley Drive<br />Suite 510<br />Herndon, VA 20171<br /><b>Notes:</b> (An office, not a datacenter)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.41328899,
+        38.958529
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD9</h2><b>Address:</b> 4100 Westfax Dr.<br />Chantilly, VA 20151<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.45331499999998,
+        38.89966099999999
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD10</h2><b>Address:</b> 45360 West Severn Way<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.432903,
+        39.022032
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD11</h2><b>Address:</b> 7510 Mason King Ct<br />Manassas VA 20109<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.54071099999999,
+        38.790495
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD12</h2><b>Address:</b> 22630 Dulles Summit Court<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.44769769999999,
+        38.9888426
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD13</h2><b>Address:</b> 43790 Devin Shafron Drive<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.485546,
+        39.004979
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD14</h2><b>Address:</b> 11801 Brewers Spring Road<br />Manassas, VA 20109<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.5483461,
+        38.7899196
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD15</h2><b>Address:</b> 22631 Dulles Summit Court<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4485629,
+        38.991701
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD16</h2><b>Address:</b> 22651 Dulles Summit Ct.<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.44850459999998,
+        38.9906154
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD21</h2><b>Address:</b> 12900 Worldgate Drive Suite 800<br />Herndon, VA 20170<br /><b>Notes:</b> (An office, not a datacenter)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.3964076,
+        38.9558004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD22</h2><b>Address:</b> 4155 Westfax Dr.<br />Chantilly, VA 20151<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.45515799999998,
+        38.897938
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD23</h2><b>Address:</b> 43830 Devin Shafron Dr.<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.48410799999999,
+        39.004182
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD24</h2><b>Address:</b> 7610 Mason King Ct.<br />Manassas, VA 20109<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.53958460000001,
+        38.79112689999999
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD32</h2><b>Address:</b> 1304 Squire Ct.<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.43478770000002,
+        39.0216077
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD50</h2><b>Address:</b> 21271 Smith Switch Rd.<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.45726509999997,
+        39.0273261
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD51 (Prologis building #9)</h2><b>Address:</b> 45220 Prologis Plaza,<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.43640149999999,
+        38.9914633
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD52</h2><b>Address:</b> 11800 Brewers Spring Rd.<br />Manassas, VA 20109<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.5483883,
+        38.7911209
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD53 (CoreSite)</h2><b>Address:</b> 12100 Sunrise Valley Dr.<br />Reston, VA 20191<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Notes:</b> If actually travelling to IAD53, a more useful address is:<br />8002 Edmund Halley Drive<br />Reston, VA 20191<br />CoreSite's facility is on the left when you turn into the parking lot.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.36464460000002,
+        38.9505853
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD54</h2><b>Address:</b> 43791 Devin Shafron Dr.<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.487214,
+        39.003285
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD55</h2><b>Address:</b> 15395 John Marshall Hwy<br />Haymarket, VA 20169<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.648349,
+        38.815228
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD56</h2><b>Address:</b> 45210 Prologis Plaza, Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.43738769999999,
+        38.9906882
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD57 (Prologis building 10)</h2><b>Address:</b> 22755 Relocation Drive<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4422037,
+        38.9875123
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD58</h2><b>Address:</b> 22745 Relocation Drive,<br />Sterling, VA 20166<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4411331,
+        38.9869694
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD59</h2><b>Address:</b> 7600 Doane Drive<br />Manassas, VA 20109<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.5488656,
+        38.7922101
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD60</h2><b>Address:</b> 21267 Smith Switch Rd<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4604457,
+        39.02881
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD66 (Equinix DC11)</h2><b>Address:</b> 21721 Filigree Court<br />Ashburn, VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Notes:</b> Do not ship directly to this location without emailing iad-management@ first. Redirect<br />shipment to IAD6.<br />- Exceptions are made under certain circumstances for DWDM. Tracking numbers need to be<br />provided prior to the equipment showing up, or else Equinix WILL reject the shipment.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.45860970000001,
+        39.015023
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD67</h2><b>Address:</b> 43940 Digital Loudoun Plaza, Ashburn VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Notes:</b> Do not ship directly to this location without emailing iad-management@ first.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.47919790000003,
+        39.0008206
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD69 (cyrusone)</h2><b>Address:</b> 21111 Ridgetop Circle<br />Sterling, VA 20166<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Phone:</b> 855 593 1045<br /><b>Notes:</b> Do not ship directly to this location without emailing iad-management@ first.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.41380959999998,
+        39.0258274
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD71</h2><b>Address:</b> 21263 Smith Switch Rd.<br />Ashburn VA 20147<br /><b>Email:</b> iad-logistics@amazon.com<br /><b>Notes:</b> Do not ship directly to this location without emailing iad-management@ first.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.459952,
+        39.029643
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD73</h2><b>Address:</b> 7060 Wellington Rd, Manassas, VA 20109<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.558929,
+        38.77806
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+      "popupContent": "<h2>IAD74</h2><b>Address:</b> 7080 Wellington Rd, Manassas, VA 20109<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.557706,
+        38.777516
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northern Virginia",
+	"popupContent": "<h2>IAD77 (COPT DC-6)</h2><b>Address:</b> 9651 Hornbaker Rd, Manassas, VA 20109<br /><b style='color:red'>Corrected:</b> In the original document, the address listed for this data center was 9156 Hornbaker Rd, Manassas, VA 20109. It appears that the numbers in this address were accidentally typed in the wrong order. 9651 Hornbaker Rd is the DC-6 data center managed by COPT (https://www.datacenterhawk.com/colo/copt/9651-hornbaker-road/dc-6).<br /><b>Notes:</b> This is a Hybrid Powered Shell AKA Colo<br />Building is managed by COPT<br />Amazon is known as Vandalay Industries on badges and all correspondence with building<br />manager<br />Deliveries should be coordinated through: dc6security@copt.com<br />Wiki on how to get access & Badges: https://w.amazon.com/index.php/IADInfraTPMTeam<br />/IADBuilds/IAD77/badgeform<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.532243,
+        38.747619
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA3 (SAS)</h2><b>Address:</b> 1100 Second Avenue<br />Basement Floor Security Office<br />Seattle, WA 98101<br /><b>Contact:</b> Tyler Hanna<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.3357795,
+        47.6063789
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA4 (Westin Building)</h2><b>Address:</b> 2001 6th Avenue<br />Seattle, WA<br /><b>Contact:</b> Tyler Hanna<br /><b>Notes:</b> Westin Building, downtown Seattle<br />Note: DO NOT SHIP TO WESTIN DIRECTLY, USE SEA19 or SEA3 ADDRESS<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.33888350000001,
+        47.6143474
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA14 (Tukwila)</h2><b>Address:</b> 12301 Tukwila International Blvd.<br />Tukwila, WA 98168<br /><b>Contact:</b> Tyler Hanna<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.29329789999997,
+        47.4920675
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA15 (Tukwila)</h2><b>Address:</b> 3355 S 120th Pl<br />Tukwila, WA 98168<br /><b>Contact:</b> Tyler Hanna<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.28979229999999,
+        47.4918832
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA19 (Fisher Plaza)</h2><b>Address:</b> Fisher Plaza, downtown Seattle<br />100 4th Ave. N.<br />Suite 420<br />Seattle, WA, 98109<br /><b>Contact:</b> Tyler Hanna<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.3485556,
+        47.6189197
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA31 (Netriver)</h2><b>Address:</b> 4200 194th St. SW.<br />Suite 100<br />Lynnwood, WA, 98036<br /><b>Contact:</b> Tyler Hanna<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.28979370000002,
+        47.8222879
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA32 (Seattle - Sodo)</h2><b>Address:</b> Amazon.com c/o Front Security Desk<br />1531 Utah Ave S<br />Suite 500<br />Seattle, WA 98134<br /><b>Phone:</b> 206-679-7770<br /><b>Contact:</b> Tyler Hanna<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.33581119999997,
+        47.5892477
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Seattle",
+      "popupContent": "<h2>SEA72 (Colo: Digital Fortress)</h2><b>Address:</b> Amazon.com<br />3101 Western Ave<br />Seattle WA 98121<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.35676030000002,
+        47.6177878
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO4 (Equinix SV8)</h2><b>Address:</b> Equinix (SV8)<br />C/O A100 US LLC.<br />529 Bryant St<br />Palo Alto, CA 94301<br /><b>Phone:</b> +1 650-752-2990<br /><b>Notes:</b> For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.16081229999998,
+        37.4458254
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO5 & 5B (Equinix SV1 & SV5)</h2><b>Address:</b> Equinix (SV1)<br />C/O A100 US LLC.<br />11 Great Oaks, Blvd<br />San Jose, CA 95123<br /><b>Notes:</b> For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.7831415,
+        37.2415866
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO6 (VZ Terremark SJC3)</h2><b>Address:</b> Terremark Inc. NAP West<br />C/O A100 US LLC.<br />3000 Corvin Drive<br />Santa Clara, CA 95051-0723<br />Attn: Chris Ballard<br /><b>Notes:</b> For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.98852669999997,
+        37.3758653
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO7 (Equinix SV2) (Decommissioned Nov'12)</h2><b>Address:</b> Equinix (SV2)<br />C/O A100 US LLC.<br />1350 Duane Ave<br />Santa Clara, CA 95054<br /><b>Notes:</b> For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.95495440000002,
+        37.3781637
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO8 (DLR)</h2><b>Address:</b> Digital Realty Trust<br />C/O A100 US LLC.<br />200 Paul Ave<br />Suite 402 (4th Floor)<br />San Francisco, CA<br /><b>Notes:</b> For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.3981955,
+        37.7241785
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO9 (A100 US, LLC)</h2><b>Address:</b> A100 US LLC.<br />26464 Corporate Ave.<br />Hayward, CA 94545<br /><b>Notes:</b> For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.11213329999998,
+        37.62723200000001
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO20 (Coresite)</h2><b>Address:</b> Coresite CO A100 US LLC<br />2972 Stender Way<br />Santa Clara, CA 95051<br /><b>Notes:</b> This site requires a BSR ticket created with Coresite for receiving shipments.<br />For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.97068380000002,
+        37.3762075
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "California Bay Area",
+      "popupContent": "<h2>SFO21 (Coresite)</h2><b>Address:</b> Coresite CO A100 US LLC<br />2950 Stender Way<br />Santa Clara, CA 95054<br /><b>Notes:</b> This site requires a BSR ticket created with Coresite for receiving shipments.<br />For shipping and all SFO cluster information: https:/?/?datacenters.amazon.com/?twiki<br />/?bin/?view/?Datacenters/?SFOCluster<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.97075749999999,
+        37.3754904
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northeastern Oregon",
+      "popupContent": "<h2>PDX1</h2><b>Address:</b> VaData Inc.<br />73575 Lewis and Clark Drive (PO BOX 1359,Boardman,OR 97818 for US Mail)<br />Boardman, OR 97818<br /><b>Notes:</b> Operations Manager: Charlie Hodges; Data Center Management: Todd Milev; DCEO Management:<br />Ronnie Brock; Logistics Management: Larry Walter, Greg Moitozo<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.6313015,
+        45.8511146
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northeastern Oregon",
+      "popupContent": "<h2>PDX2</h2><b>Address:</b> VaData Inc.<br />2400 Beach Access Road<br />Umatilla, OR 97882<br /><b>Notes:</b> Operations Manager: Charlie Hodges; Data Center Management: Todd Milev; DCEO Management:<br />Ronnie Brock; Logistics Management: Larry Walter, Greg Moitozo<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.2676356,
+        45.9161836
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northeastern Oregon",
+      "popupContent": "<h2>PDX4</h2><b>Address:</b> VaData Inc.<br />79539 Rippee Road (PO BOX 1359,Boardman,OR 97818 for US Mail)<br />Boardman, OR 97818<br /><b>Notes:</b> Operations Manager: Charlie Hodges; Data Center Management: Richard Laing; DCEO<br />Management: James Reid; Logistics Management: Greg Moitozo<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.6542399,
+        45.8422797
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northeastern Oregon",
+      "popupContent": "<h2>PDX50</h2><b>Address:</b> VaData Inc.<br />73577 Lewis and Clark Drive (PO BOX 1359,Boardman,OR 97818 for US Mail)<br />Boardman, OR 97818<br /><b>Notes:</b> Operations Manager: Charlie Hodges; Data Center Management: Todd Milev; DCEO Management:<br />Ronnie Brock; Logistics Management: Larry Walter, Greg Moitozo<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.631312,
+        45.852888
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northeastern Oregon",
+      "popupContent": "<h2>PDX51</h2><b>Address:</b> VaData Inc.<br />3200 Beach Access Road<br />Umatilla, OR 97882<br /><b>Notes:</b> Operations Manager: Charlie Hodges; Data Center Management: Todd Milev; DCEO Management:<br />Ronnie Brock; Logistics Management: Larry Walter, Greg Moitozo<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.267861,
+        45.917613
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northeastern Oregon",
+      "popupContent": "<h2>PDX52</h2><b>Address:</b> VaData Inc.<br />79536 Rippee Road (PO BOX 1359,Boardman,OR 97818 for US Mail)<br />Boardman, OR 97818<br /><b>Notes:</b> Operations Manager: Charlie Hodges; Data Center Management: James Wood; DCEO Management:<br />Dietrich Enkey; Logistics Management: Greg Moitozo<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.6542399,
+        45.8422797
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Northeastern Oregon",
+      "popupContent": "<h2>PDX79 (Warehouse)</h2><b>Address:</b> VaData Inc.<br />73075 LEWIS & CLARK DRIVE (PO BOX 1359,Boardman,OR 97818 for US Mail)<br />Boardman, OR 97818<br /><b>Notes:</b> Operations Manager: Charlie Hodges; Data Center Management: Richard Laing; DCEO<br />Management: Bruce Hurley; Logistics Management: Greg Moitozo<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.640979,
+        45.852466
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Dublin",
+      "popupContent": "<h2>DUB2</h2><b>Address:</b> Amazon Data Services Ltd.<br />Citadel 100 Building<br />4033 Citywest Avenue<br />Citywest Business Campus<br />(Saggart, County Dublin)<br />Dublin 24<br />Ireland<br /><b>Phone:</b> +353 1 657 3022<br /><b>Fax:</b> +353 1 657 3057<br /><b>Contact:</b> DCO dub2-data-tech@, oncall, manager: Harpreet Singh Sandhi (sandhi@)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.416741999999999,
+        53.290525
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Dublin",
+      "popupContent": "<h2>DUB3</h2><b>Address:</b> Amazon Data Services Ltd.<br />Unit9<br />Servecentric, Blanchardstown Corporate Park<br />(Blanchardstown)<br />Dublin 15<br />Ireland<br /><b>Phone:</b> +353 1 657 3033<br /><b>Fax:</b> +353 1 657 3037<br /><b>Contact:</b> DCO dub3-data-tech@, oncall, manager: Padraig Lynch (padraigl@)<br /><b>Notes:</b> Note: For RMA deliveries, contact DCO oncall and/or DUB logistics (dub-logistics@) to<br />ensure the package can be received on-site.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.370362900000032,
+        53.41238389999999
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Dublin",
+      "popupContent": "<h2>DUB4/7</h2><b>Address:</b> Amazon Data Services Ltd.<br />International Exchange Centre<br />Clonshaugh Industrial Estate<br />Dublin 17<br />Ireland<br /><b>Phone:</b> +353 1 657 3044<br /><b>Fax:</b> +353 1 657 3047<br /><b>Contact:</b> DCO dub4-data-tech@, oncall, manager: Gareth Campling (campling@)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.2180251,
+        53.4001454
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Dublin",
+      "popupContent": "<h2>DUB8</h2><b>Address:</b> Amazon Data Service Ireland Ltd.<br />Hexagon building<br />Blanchardstown Bus & Tech<br />Snugborough Road<br />Dublin 15<br />Ireland<br /><b>Contact:</b> DCO dub8-data-tech@, oncall, manager: Padraig Lynch (padraigl@)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.36222222,
+        53.40358333
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Dublin",
+      "popupContent": "<h2>DUB9</h2><b>Address:</b> Amazon Data Service Ireland Ltd.<br />30A Greenhills road<br />Tallaght<br />Dublin 24<br />Ireland<br /><b>Phone:</b> +353 1 657 3099<br /><b>Contact:</b> DCO dub9-data-tech@, oncall, manager: Harpreet Singh Sandhi (sandhi@)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.35011,
+        53.294564
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Dublin",
+      "popupContent": "<h2>DUB10/50/51</h2><b>Address:</b> Amazon Data Services Ltd.<br />Unit AF1<br />Clonshaugh Industrial Estate<br />Dublin 17<br />Ireland<br /><b>Phone:</b> +353 1 657 3044<br /><b>Fax:</b> +353 1 657 3047<br /><b>Contact:</b> DCO dub10-data-tech@, oncall, manager: Gareth Campling (campling@)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.219484,
+        53.400222
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Dublin",
+      "popupContent": "<h2>DUB53</h2><b>Address:</b> Amazon Data Service Ireland Ltd.<br />Unit D,<br />Hibernian Insurance Industrial Estate,<br />Greenhills Road<br />Tallaght,<br />Dublin 24,<br />D24 HY58<br />Ireland<br /><b>Contact:</b> DCO dub9-data-tech@, oncall, manager: Claire O'Sullivan (claireos@)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.351279,
+        53.296414
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Luxembourg",
+      "popupContent": "<h2>LUX2</h2><b>Address:</b> Amazon EU Sarl<br />c/o SES ASTRA<br />L-6815 Chateau de Betzdorf<br />Luxembourg<br /><b style='color:red'>Corrected:</b> In the original document, L-6915 Chateau de Betzdorf was listed as the address for this data center. Most likely, the 9 should be an 8 because the SES ASTRA offices (listed in the c/o) are at L-6815 Chateau de Betzdorf (https://www.ses.com/europe/our-offices).<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.3257241,
+        49.693798
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Luxembourg",
+      "popupContent": "<h2>LUX8</h2><b>Address:</b> Amazon EU Sarl<br />c/o Ebrc Resilience Centre South (RCS)<br />210, Rue de Noertzange<br />L-3670 Kayl<br />Luxembourg<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.051087499999994,
+        49.4974262
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Luxembourg",
+      "popupContent": "<h2>LUX9</h2><b>Address:</b> Amazon EU Sarl<br />c/o European Data Hub<br />12D, Impasse Drosbach<br />Cloche d�Or<br />L-1882 Luxembourg<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.110731,
+        49.57956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Frankfurt",
+      "popupContent": "<h2>FRA50</h2><b>Address:</b> A100 ROW GmbH<br />C/O Equinix<br />Kleyerstrasse 88-90, Frankfurt am Main<br />60326, Germany<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.632581899999991,
+        50.099206
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Frankfurt",
+      "popupContent": "<h2>FRA52</h2><b>Address:</b> A100 ROW GmbH,<br />C/O Interxion<br />Weismullerstrasse 25, Frankfurt am Main<br />60314, Germany<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.73695680000003,
+        50.1193074
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Frankfurt",
+      "popupContent": "<h2>FRA53</h2><b>Address:</b> A100 ROW GmbH,<br />C/O E-shelter<br />Karl Landsteiner Ring 4, Russelsheim<br />65428, Germany<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.450269400000025,
+        49.97472020000001
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Frankfurt",
+      "popupContent": "<h2>FRA54</h2><b>Address:</b> A100 ROW GmbH,<br />C/O E-shelter<br />Eschborner Landstrasse 100, Frankfurt am Main<br />60489, Germany<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.601106800000025,
+        50.1281415
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>BJS 9</h2><b>Address:</b> ZhongGuanCun Hi-tech Zone Block, Beijing Light-Machinery-Electricity Industrial Area,<br />Tongzhou District, Beijing, China 101111<br /><b>Phone:</b> 15301146591<br /><b>Notes:</b> Please do not send anything to this site without notify bjs-shipments@, this is unmanned<br />site.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.5517933,
+        39.814947
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>BJS 10</h2><b>Address:</b> 5th floor, Dexin Building(D2 Building),<br />A10 North Jiuxianqiao Road, Chaoyang District,<br />Beijing, China, 100015<br /><b>Phone:</b> + 86 18611464091(Hotline)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.5014,
+        39.9814
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>BJS 11</h2><b>Address:</b> Amazon, Guanghuan Cloud Valley,<br />Chuangyigu Rd, Yanshun Rd,Yanjiao, Langfang,<br />Hebei, 065201, China<br /><b>Phone:</b> + 86 183-3065-4171(Hotline)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.7952,
+        39.9776
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>BJS 12</h2><b>Address:</b> No.2 Xinghai st. 1 , South District, Beijing Economic-Technological Development Area,<br />Beijing, China, 100176<br /><b>Phone:</b> 15301146591<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.504096,
+        39.747781
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>BJS20</h2><b>Address:</b> 1 Lou Zhuang Road, Langfang, Hebei province, China<br /><b>Phone:</b> 13131633849<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.725939,
+        39.595901
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>ZHY53/BJS21</h2><b>Address:</b> No.2, East Central Avenue, Shapotou District Zhongwei,Ningxia China<br /><b>Phone:</b> 18195511474<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        105.212944,
+        37.505366
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>PEK4 (NetInfinity)</h2><b>Address:</b> Level P3, Tower E1, The Towers, Oriental Plaza<br />No1,East Chang'An Ave.Dong Cheng District<br />Beijing, 100738 China<br /><b>Phone:</b> + 86 136-1130-4341(Hotline)<br /><b>Contact:</b> Mauro D. Sauco<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.4097,
+        39.9077
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>PEK7</h2><b>Address:</b> 6th Floor, Dexin Building,<br />A10 JiuXianQiao North Road, Chaoyang District,<br />Beijing, 100015, China<br /><b>Phone:</b> + 86 136-1130-4342(Hotline)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.5017,
+        39.9814
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Beijing",
+      "popupContent": "<h2>PEK50</h2><b>Address:</b> Amazon, Guanghuan Cloud Valley,<br />Chuangyigu Rd, Yanshun Rd,Yanjiao, Langfang,<br />Hebei, 065201, China<br /><b>Phone:</b> + 86 189-3262-7942(Hotline)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.794932,
+        39.977071
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT4 (Equinix TY2)</h2><b>Address:</b> Equinix Systems KK, TY2 IBX Center<br />3-8-21 Higashi Shinagawa, Shinagawa-ku<br />Tokyo, Japan 104-002<br />Atte: ADSJ<br /><b>Email:</b> nrt-rs-datatech@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        139.74805700000002,
+        35.617458
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT7 (Hitachi/Verizon)</h2><b>Address:</b> Systems Plaza Yokohama<br />1-2-10 Isogo, Isogo-ku<br />Yokohama, Kanagawa-ken, Japan 235-0016<br /><b>Email:</b> nrt7-datatech@amazon.com<br /><b>Phone:</b> +81-80-5934-7911 (24/7)<br /><b>Notes:</b> As this is a COLO site to avoid mistakes, every RMA delivery should be notified to DCO on<br />arrival time via site phone, and part handed off to DCO staff.<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        139.6260433,
+        35.4122734
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT8 (SCSK)</h2><b>Address:</b> SCSK DC<br />2-6-1 Otsuka, Inzai City<br />Chiba, Japan 270-1352<br />Atte: ADSJ<br /><b>Email:</b> nrt11-datatech@amazon.com<br /><b>Phone:</b> +81-80-5934-7912 (24/7)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        140.12031430000002,
+        35.8095568
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT11 (KVH NRT11 Colt)</h2><b>Address:</b> Inzai Building<br />2-3 Otsuka<br />Inzai City<br />Chiba, Japan 270-1352<br />Atte: ADSJ<br /><b>Email:</b> nrt11-datatech@amazon.com<br /><b>Phone:</b> +81-80-5934-7912 (24/7)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        140.1166369,
+        35.8079126
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT12 (KDDI)</h2><b>Address:</b> KDDI 4th Tama Network Center Bldg<br />3-2 Karakida<br />Tama, Tokyo, 206-0035<br />Atte: ADSJ<br /><b>Email:</b> nrt12-datatech@amazon.com<br /><b>Phone:</b> +81-80-5934-7913 (24/7)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        139.40269,
+        35.61017
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT20 (Amazon)</h2><b>Address:</b> Inzai Technology Building,<br />2-101-14 Izumino, Inzai,<br />Chiba 270-1360, JAPAN<br /><b>Phone:</b> +81 80 90453067 (24/7)<br /><b>Contact:</b> * Contact: nrt20-datatech@amazon.com (DCO)<br />* Contact: nrt20-opseng@amazon.com (DCEO)<br />* Contact: nrt20-guardforce@amazon.com (Security)<br />* Contact phone: +81-476-77-1115 (24/7, Security)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        140.1249361,
+        35.8067822
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT51 (Equinix OS1)</h2><b>Address:</b> Nishi-Shinsaibashi Bldg. 8F<br />1-26-1, Shin-machi,, Nishi-ku<br />Osaka-city, Osaka, Japan 550-0013<br /><b>Email:</b> nrt-rs-datatech@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        135.49560229999997,
+        34.6757563
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT52 (KDDI Osaka)</h2><b>Address:</b> Telehouse Osaka Chuo Data Center KDDI Osaka Bldg<br />2-2-72 Shiromi, Chuo-ku<br />Osaka-city, Osaka, Japan 540-0001<br /><b>Email:</b> nrt-rs-datatech@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        135.53437080000003,
+        34.69311890000001
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT53 (Equinix TY3)</h2><b>Address:</b> Equinix TY3-IBX Data Center<br />1-9-20 Edagawa<br />Koto-ku, Tokyo, Japan 135-0051<br /><b>Email:</b> nrt-rs-datatech@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        139.8034285,
+        35.6566997
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Japan",
+      "popupContent": "<h2>NRT55 (Canon/Colt)</h2><b>Address:</b> Canon IT Nishi Tokyo Data Center<br />3-5-33 Mukodai-cho<br />Nishi Tokyo-city, Tokyo, Japan 188-0013<br /><b>Email:</b> nrt-rs-datatech@amazon.com<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        139.53492660000006,
+        35.7175638
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Singapore",
+      "popupContent": "<h2>SIN2 (Equinix - SG2)</h2><b>Address:</b> Amazon Asia-Pacific Resources Pte Ltd<br />C/O Equinix Pacific Pte Ltd (SIN2)<br />15 Pioneer Walk, Level 4<br />Singapore 627753<br /><b>Phone:</b> +65-9126 5817<br /><b>Contact:</b> Mr. Hazizi Kadir - kadirm@ (DCO)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        103.69519000000003,
+        1.3210158
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Singapore",
+      "popupContent": "<h2>SIN3 (Keppel Datahub - T25)</h2><b>Address:</b> Amazon Asia-Pacific Resources Pte Ltd<br />C/O Keppel Datahub Pte Ltd (SIN3)<br />25 Tampines Street 92<br />Singapore 528877<br /><b>Contact:</b> Mr. Gaurav Wadhwani - gauraw@ (DCO)<br />Phone: +65-9109 7712<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        103.94422129999998,
+        1.3409562
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Singapore",
+      "popupContent": "<h2>SIN4 (Tata Communication - TCX)</h2><b>Address:</b> Amazon Asia-Pacific Resources Pte Ltd<br />C/O Tata Communication International Pte Ltd (SIN4)<br />35 Tai Seng Street<br />Singapore 534103<br /><b>Phone:</b> +65-9241 0226<br /><b>Contact:</b> Mr. Raja Rajaram - rajaramr@ (DCO)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        103.89022509999995,
+        1.3353674
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Singapore",
+      "popupContent": "<h2>SIN5 (Global Switch)</h2><b>Address:</b> Amazon Asia-Pacific Resources Pte Ltd<br />C/O Tata Communication International Pte Ltd (SIN5)<br />2 Tai Seng Avenue<br />7th Floor<br />Singapore 534408<br /><b>Phone:</b> +65-9241 0226<br /><b>Contact:</b> Mr. Raja Rajaram - rajaramr@ (DCO)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        103.89382769999997,
+        1.336723
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Singapore",
+      "popupContent": "<h2>SIN50 (Equinix - SG2)</h2><b>Address:</b> Amazon Asia-Pacific Resources Pte Ltd<br />C/O Equinix Pacific Pte Ltd (SIN50)<br />15 Pioneer Walk, Level 4<br />Singapore 627753<br /><b>Phone:</b> +65-9126 5817<br /><b>Contact:</b> Mr. Hazizi Kadir - kadirm@ (DCO)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        103.69519000000003,
+        1.3210158
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Singapore",
+      "popupContent": "<h2>SIN51 (Keppel Datahub - T27)</h2><b>Address:</b> Amazon Asia-Pacific Resources Pte Ltd<br />C/O Keppel Datahub Pte Ltd (SIN51)<br />27 Tampines Street 92<br />Singapore 528878<br /><b>Phone:</b> +65-9109 7712<br /><b>Contact:</b> Mr. Gaurav Wadhwani - gauraw@ (DCO)<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        103.94383100000005,
+        1.340508
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD1 (Equinix SY3)</h2><b>Address:</b> AARP-SYD1 DCT<br />C/O Equinix Australia<br />47 Bourke Rd<br />Alexandria NSW 2015<br />Australia<br /><b>Phone:</b> +61 2 9636 0460 (SYD6)<br /><b>Contact:</b> SYD1 DCT<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        151.19294220000006,
+        -33.9117762
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD4 (Global Switch Ultimo)</h2><b>Address:</b> SYD4 DCT<br />C/O Global Switch<br />400 Harris St<br />Ultimo NSW 2007<br />Australia<br /><b>Phone:</b> +61 2 9636 0460 (SYD6)<br /><b>Contact:</b> SYD4 DCT<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        151.1975863,
+        -33.8756413
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD5 (Fujitsu WSDC)</h2><b>Address:</b> Krzysztof Budzynski<br />C/O Fujitsu Australia<br />6 Bellevue Circuit<br />Pemulwuy NSW 2145<br />Australia<br /><b>Phone:</b> +61 409 274 777<br /><b>Contact:</b> Krzysztof Budzynski<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.92390550000005,
+        -33.8214412
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD51</h2><b>Address:</b> Alex Probst<br />1 William Dean Street<br />Eastern Creek NSW 2766<br />Australia<br /><b>Phone:</b> +61 427 324 577<br /><b>Contact:</b> Alex Probst<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.86677940000004,
+        -33.7935765
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD52</h2><b>Address:</b> SYD52<br />42A Bluett Drive<br />Smeaton Grange, NSW 2567<br />Australia<br /><b>Phone:</b> +61 427 324 577<br /><b>Contact:</b> Alex Probst<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.7672645,
+        -34.0369275
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD6 (Iseek-KDC GHDC)</h2><b>Address:</b> SYD6 DCT<br />C/O Securus Australia<br />5 Broadcast Way (South Gate)<br />Artarmon NSW 2064<br />Australia<br /><b>Phone:</b> +61 (0)2 9636 0460<br /><b>Contact:</b> SYD6 DCT<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        151.18629520000002,
+        -33.8200058
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD61 (NextDC S1)</h2><b>Address:</b> SYD61 DCT<br />C/O NextDC S1<br />4 Eden Park Drive<br />Macquarie Park NSW 2113<br />Australia<br /><b>Phone:</b> +61 (0)2 9636 0461<br /><b>Contact:</b> SYD61 DCT<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        151.13149020000003,
+        -33.7852629
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Australia",
+      "popupContent": "<h2>SYD7 (Fujitsu SDC)</h2><b>Address:</b> SYD7 DCT<br />C/O Fujitsu Australia<br />4 Figtree Drive<br />Homebush NSW 2127<br />Australia<br /><b>Phone:</b> +61 2 9636 0460 (SYD6)<br /><b>Contact:</b> SYD7 DCT<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        151.07163679999996,
+        -33.8498218
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "São Paulo",
+      "popupContent": "<h2>GRU1 (Verizon Terremark NAPSAO)</h2><b>Address:</b> Avenida Ceci, 1900 CJ A - 1 Andar Condominio Walter Torre Tambore<br />City: Barueri / Sao Paulo BRAZIL<br />Zip code: 06460-120<br /><b>Email:</b> ServiceCenterGRU1@verizon.com<br /><b>Phone:</b> +55 11 4950-9301<br /><b>Contact:</b> Operations - Renato Ferlin | Logistics - Rubens Catta Preta<br />Colocation - Verizon Enterprise Solutions<br /><b>CNPJ # (company identification number):</b> 12.147.176/0003-11<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.8150077,
+        -23.4970705
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "São Paulo",
+      "popupContent": "<h2>GRU2 (Algar CPS)</h2><b>Address:</b> Rua Guido Camargo Penteado Sobrinho, 3685 Barao Geraldo<br />City: Campinas / Sao Paulo - BRAZIL<br />Zip code: 13082-800<br /><b>Email:</b> sd@algartech.com<br /><b>Phone:</b> + 55 11 4950-9302<br /><b>Contact:</b> Operations - Patricia Feital | Logistics - Guilherme Golschmidt<br />Colocation - Algar Tecnologia<br /><b>CNPJ # (company identification number):</b> 12.147.176/0004-00<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -47.09986649999996,
+        -22.8208252
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "São Paulo",
+      "popupContent": "<h2>GRU3 (TIVIT SP1)</h2><b>Address:</b> Rua Bento Branco de Andrade Filho, 621 1 andar Jardim Dom Bosco<br />City: Sao Paulo / Sao Paulo - BRAZIL<br />Zip code: 04757-000<br /><b>Email:</b> suporte@tivit.com.br<br /><b>Phone:</b> + 55 11 4950-9301<br /><b>Contact:</b> Operations - Renato Ferlin | Logistics - Rubens Catta Preta<br />Colocation - Tivit Terceirizacao de Processos, Servicos e Tecnologia S/A<br /><b>CNPJ # (company identification number):</b> 12.147.176/0005-83<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.72050350000001,
+        -23.6508144
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "São Paulo",
+      "popupContent": "<h2>GRU4 (Ascenty JD-1)</h2><b>Address:</b> Rua Presbitero Plinio Alves de Souza, 757 - Medeiros<br />City: Jundiai / Sao Paulo BRAZIL<br />Zip code: 13212-181<br /><b>Email:</b> ticket@ascenty.com<br /><b>Phone:</b> +55 11 4950-9304<br /><b>Contact:</b> Operations - Wil Loro | Logistics - Guilherme Goldschmidt<br />Colocation: Ascenty Data Centers Loca��o e Servi�os Ltda<br /><b>CNPJ # (company identification number):</b> 12.147.176/0002-30<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.9746045,
+        -23.191744
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "São Paulo",
+      "popupContent": "<h2>GRU50 (UOL DIVEO)</h2><b>Address:</b> Av Ceci - 1850 - Tambore<br />City: Barueri / Sao Paulo - BRAZIL<br />Zip code: 06.460-120<br /><b>Phone:</b> +55 11 4950-9301<br /><b>Contact:</b> Operations - Renato Ferlin | Logistics - Rubens Catta Preta<br />Colocation: UOL DIVEO S.A.<br /><b>CNPJ # (company identification number):</b> 12.147.176/0008-25<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.81130539999998,
+        -23.4949696
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "zone": "Rio de Janeiro",
+      "popupContent": "<h2>GIG50 (TIVIT)</h2><b>Address:</b> Estrada dos Bandeirantes, n 10916 Vargem Pequena Jacarepagu<br />City: Rio de Janeiro / Rio de Janeiro BRAZIL<br />Zip code: 22783-111<br /><b>Email:</b> suporte@tivit.com.br<br /><b>Phone:</b> + 55 11 4950-9301 / Phone: +55 11 36 268 527<br /><b>Contact:</b> Operations - Renato Ferlin | Logistics - Rubens Catta Preta<br />Colocation: Tivit Terceirizacao de Processos, Servicos e Tecnologia S/A<br /><b>CNPJ # (company identification number):</b> 07.073.027/0010-44<br />"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -43.4313042,
+        -22.9854491
+      ]
+    }
+  }
+]
